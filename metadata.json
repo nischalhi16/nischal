@@ -1,0 +1,6 @@
+{
+  "name": "Temple Escape 3D: Relic Run",
+  "description": "An exhilarating 3D ancient temple endless runner featuring multi-lane acrobatics, ancient ruins, demon beast chase, golden idols, and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
